@@ -1,2 +1,2 @@
 # Sql-pilot
-A collection of Sql files
+A collection of Sql files with over 100 querie results
